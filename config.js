@@ -1,8 +1,8 @@
 module.exports = {
   // your community or team name to display on join page.
-  community: process.env.COMMUNITY_NAME || 'Savio08 Reunion',
+  community: process.env.COMMUNITY_NAME || 'db2008 Reunion',
   // your slack team url (ex: socketio.slack.com)
-  slackUrl: process.env.SLACK_URL || 'savio08.slack.com',
+  slackUrl: process.env.SLACK_URL || 'db2008.slack.com',
   // access token of slack
   // You can generate it in https://api.slack.com/web#auth
   // You should generate the token in admin user, not owner.
